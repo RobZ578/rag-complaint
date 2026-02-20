@@ -283,8 +283,3 @@ This project is developed for educational purposes as part of a data engineering
 *Next Milestone: Final Submission (Jan 13, 2026) - Tasks 3 & 4*
 
 
-
-cloudflared.exe service install eyJhIjoiNDNmNjZjMTNjMjhhYzczYmQ4N2IyMDZhNzZkZTliY2MiLCJ0IjoiNTA2NWZjY2EtNjg4My00YjU0LWEwYjgtY2JkZjhjNTU4ZTlkIiwicyI6IlptRmpPVEZqWW1JdFpUY3paUzAwTW1JMExUZzROMlV0WWpZNVlUWTBZMlpqTXpabSJ9
-
-
-cloudflared.exe service install eyJhIjoiNDNmNjZjMTNjMjhhYzczYmQ4N2IyMDZhNzZkZTliY2MiLCJ0IjoiN2JhZTNkYmItNmIyMC00ZDQzLTk1YzItMDBlOWJlYjQyNDA2IiwicyI6Ill6bGpOR1kxTkRrdE1HSTROQzAwWkRRNUxXRTBNRGd0TmpOak1HSmhaakE0TXpFNSJ9
